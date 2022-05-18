@@ -10,4 +10,4 @@ We'll have enough food, hopefully. And a lot of drinks, but BYOB if you want an 
 ## Where 
 Harzer Straβe 107.
 
-<img src="zoom1.png" width="275" /> <img src="zoom2.png" width="275" /> <img src="zoom3.png" width="275" /> 
+<img src="zoom1.png" width="270" /> <img src="zoom2.png" width="270" /> <img src="zoom3.png" width="270" /> 
