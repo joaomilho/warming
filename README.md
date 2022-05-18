@@ -10,5 +10,4 @@ We'll have enough food, hopefully. And a lot of drinks, but BYOB if you want an 
 ## Where 
 Harzer Straβe 107.
 
-![City](map-city.png)
-![Close](map-close.png)
+<img src="zoom3.png" width="333" /> <img src="zoom2.png" width="333" /> <img src="zoom1.png" width="333" />
