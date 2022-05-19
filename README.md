@@ -1,10 +1,10 @@
-### What
+## What
 Housewarming. Hot dogs. Light beers and other drinks. Rain or no rain, fuck it.
 
-### When
+## When
 Saturday, 21st of May. Starting around 1600 aka 4pm. 
 
-### What to bring
+## What to bring
 We'll have enough food, hopefully. And a decent amount of light beers, but BYOB if you want an extra or something special.
 
 ## Where 
