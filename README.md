@@ -31,4 +31,4 @@ Don't fk up.
 Click the [&#9650; "black up-pointing triangle" icon (unicode 9650)](http://www.amp-what.com/unicode/search/black%20up-pointing%20triangle) and then [5 "digit five" (unicode 53)](http://www.amp-what.com/unicode/search/5). Enjoy the slowest elevetor in the world.
 
 <img src="p10.jpg" width="200" /> <img src="p11.jpg" width="200" /> <br />
-Door on the left. You've made it.
+Door on the right. You've made it.
